@@ -189,7 +189,7 @@ function! sonokai#get_palette(style, colors_override) "{{{
           \ 'bg0':        ['#1e1e1e',   '235'],
           \ 'bg1':        ['#1c1c1c',   '236'],
           \ 'bg2':        ['#1f1f1f',   '236'],
-          \ 'bg3':        ['#222222',   '237'],
+          \ 'bg3':        ['#3e3e3e',   '237'],
           \ 'bg4':        ['#1e1e1e',   '237'],
           \ 'bg_red':     ['#ff6188',   '203'],
           \ 'diff_red':   ['#55393d',   '52'],
